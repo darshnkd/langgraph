@@ -79,7 +79,7 @@ Most notebooks include graph visualizations using Mermaid and display outputs fo
 
 ## License
 
-See repository for license details.
+MIT.
 
 ---
 
